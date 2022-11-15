@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+nouveau fichier
+=======
+nouveau fichier
+>>>>>>> newb
