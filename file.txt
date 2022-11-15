@@ -1,1 +1,5 @@
-contenu dif
+<<<<<<< HEAD
+nouveau fichier
+=======
+nouveau fichier
+>>>>>>> newb
